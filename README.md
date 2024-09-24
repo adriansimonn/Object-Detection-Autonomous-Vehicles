@@ -4,4 +4,6 @@ Methods Used: CIFAR10 dataset, Tensorflow/Keras neural networks, transfer learni
 
 Employs a YOLO (You Only Look Once) Object Detector.
 
+Project began and completed in July 2021.
+
 Presentation Link: https://docs.google.com/presentation/d/1c8aXXQDv6XYLsNwAldlEsE9ccaD4uKadvDFfMgZLQuk/edit
